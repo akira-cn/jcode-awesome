@@ -40,6 +40,12 @@
 
 ![](https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/9ee4c2b0dc774b5abca99d1bc29523da~tplv-k3u1fbpfcp-no-mark:400:400:400:0.awebp?2)
 
+### [扫雷](https://code.juejin.cn/pen/7159386844486959118) <sub> by [大胆的番茄](https://juejin.cn/user/2735240659080696)
+
+UI非常美观的一款经典扫雷。
+
+![](https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/7a4b2b5f4a7743e8822a0d6113965d94~tplv-k3u1fbpfcp-no-mark:400:400:400:0.awebp?)
+
 ### [2048](https://code.juejin.cn/pen/7157941983531499534) <sub>by [小创不才](https://juejin.cn/user/2937535283070615)</sub>
   
 经典2048游戏，做得比较精致，细节还原度高。
@@ -94,10 +100,5 @@
 
 ![](https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/5272ea58ea62487abcacd6db59700fb1~tplv-k3u1fbpfcp-no-mark:400:400:400:0.awebp?)
 
-### [扫雷](https://code.juejin.cn/pen/7159386844486959118) <sub> by [大胆的番茄](https://juejin.cn/user/2735240659080696)
-
-UI非常美观的一款经典扫雷。
-
-![](https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/7a4b2b5f4a7743e8822a0d6113965d94~tplv-k3u1fbpfcp-no-mark:400:400:400:0.awebp?)
 
 
