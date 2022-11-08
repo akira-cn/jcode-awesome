@@ -8,9 +8,13 @@
 
 经典的三消游戏，基于 [LittleJS](https://github.com/KilledByAPixel/LittleJS) 开发。
 
+![](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/a06dd542bf184524a409d195e4ad300b~tplv-k3u1fbpfcp-no-mark:400:400:600:360.awebp)
+
 ### [推箱子](https://code.juejin.cn/pen/7131587018592796679) <sub>by [十年踪迹](https://juejin.cn/user/712139263189303)</sub>
 
 有挑战的推箱子游戏，一共113个独特关卡，还带有AI智能过关。
+
+![](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/47245beeb0b34ed8b6ea75657133d19a~tplv-k3u1fbpfcp-no-mark:0:0:0:0.awebp)
 
 ### [贪吃蛇](https://code.juejin.cn/pen/7155823946388996132) <sub>by [法医](https://juejin.cn/user/1574156383557255)</sub>
 
