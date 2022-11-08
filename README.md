@@ -8,7 +8,7 @@
 
 经典的三消游戏，基于 [LittleJS](https://github.com/KilledByAPixel/LittleJS) 开发。
 
-### [贪吃蛇](https://code.juejin.cn/pen/7155823946388996132) <small>by [法医](https://juejin.cn/user/1574156383557255) </small>
+### [贪吃蛇](https://code.juejin.cn/pen/7155823946388996132) <sub>by [法医](https://juejin.cn/user/1574156383557255)</sub>
 
 非常精致的一款贪吃蛇游戏。
 
