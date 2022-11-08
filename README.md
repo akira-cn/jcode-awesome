@@ -12,4 +12,4 @@
 
 非常精致的一款贪吃蛇游戏。
 
-![](https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/699116937b1d48d3839f440ae05635ea~tplv-k3u1fbpfcp-no-mark:800:800:800:0.awebp?)
+![](https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/699116937b1d48d3839f440ae05635ea~tplv-k3u1fbpfcp-no-mark:400:400:400:0.awebp?)
