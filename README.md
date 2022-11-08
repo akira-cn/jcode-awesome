@@ -21,3 +21,15 @@
 非常精致的一款贪吃蛇游戏。
 
 ![](https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/699116937b1d48d3839f440ae05635ea~tplv-k3u1fbpfcp-no-mark:400:400:400:0.awebp?)
+
+### [2048](https://code.juejin.cn/pen/7157941983531499534) <sub>by [小创不才](https://juejin.cn/user/2937535283070615)</sub>
+  
+经典2048游戏，做得比较精致，细节还原度高。
+
+![](https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/9df8bf9d71ac452cbe8b1aafa1facd75~tplv-k3u1fbpfcp-no-mark:400:400:400:0.awebp?)
+
+### [红蓝打砖块](https://code.juejin.cn/pen/7155040400577658891) <sub>by [jsmask](https://juejin.cn/user/1204720472953240)</sub>
+
+非常有趣的打砖块玩法，考研反应和操作。
+
+![](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/0797f7ebc2474233a91544058c28dcfc~tplv-k3u1fbpfcp-no-mark:400:400:400:0.awebp?)
