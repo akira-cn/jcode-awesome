@@ -76,8 +76,14 @@
 
 ![](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/9c516c6f0a66453db538841517e02a08~tplv-k3u1fbpfcp-no-mark:400:400:400:0.awebp?)
 
-### [数字华容道](https://code.juejin.cn/pen/7158450860962349087) <sub> [_风满楼](https://juejin.cn/user/4028258417379037)</sub>
+### [数字华容道](https://code.juejin.cn/pen/7158450860962349087) <sub>bu [_风满楼](https://juejin.cn/user/4028258417379037)</sub>
 
 独特的益智游戏。
 
 ![](https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/2cb6dfa935ea48d2bd9295bd8ceb97d2~tplv-k3u1fbpfcp-no-mark:400:400:400:0.awebp?)
+
+### [十二生肖消一消](https://code.juejin.cn/pen/7158392331622842383) <sub>by [3065906567846141](https://juejin.cn/user/3065906567846141)</sub>
+
+做得比较好的仿羊了个羊。
+
+![](https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/5272ea58ea62487abcacd6db59700fb1~tplv-k3u1fbpfcp-no-mark:400:400:400:0.awebp?)
