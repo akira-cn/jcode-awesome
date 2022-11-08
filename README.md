@@ -34,6 +34,12 @@
 
 ![](https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/699116937b1d48d3839f440ae05635ea~tplv-k3u1fbpfcp-no-mark:400:400:400:0.awebp?)
 
+### [贪食蛇](https://code.juejin.cn/pen/7159384232266039310) <sub>by [大胆的番茄](https://juejin.cn/user/2735240659080696)</sub>
+
+另一个版本的贪吃蛇，也挺不错。
+
+![](https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/9ee4c2b0dc774b5abca99d1bc29523da~tplv-k3u1fbpfcp-no-mark:400:400:400:0.awebp?2)
+
 ### [2048](https://code.juejin.cn/pen/7157941983531499534) <sub>by [小创不才](https://juejin.cn/user/2937535283070615)</sub>
   
 经典2048游戏，做得比较精致，细节还原度高。
@@ -87,3 +93,5 @@
 做得比较好的仿羊了个羊。
 
 ![](https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/5272ea58ea62487abcacd6db59700fb1~tplv-k3u1fbpfcp-no-mark:400:400:400:0.awebp?)
+
+
