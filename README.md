@@ -10,6 +10,12 @@
 
 ![](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/a06dd542bf184524a409d195e4ad300b~tplv-k3u1fbpfcp-no-mark:400:400:600:360.awebp)
 
+### [枪战游戏](https://code.juejin.cn/pen/7132404229280366606)
+
+好玩的枪战游戏，和上面的消除方块都是 [LittleJS](https://github.com/KilledByAPixel/LittleJS) 的示例游戏。
+
+<img src="https://user-images.githubusercontent.com/316498/200507153-60760a41-b7c1-4b12-bf2a-3094a30655e2.png" width=400>
+
 ### [推箱子](https://code.juejin.cn/pen/7131587018592796679) <sub>by [十年踪迹](https://juejin.cn/user/712139263189303)</sub>
 
 有挑战的推箱子游戏，一共113个独特关卡，还带有AI智能过关。
@@ -40,11 +46,11 @@
 
 ![](https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/9ee4c2b0dc774b5abca99d1bc29523da~tplv-k3u1fbpfcp-no-mark:400:400:400:0.awebp?2)
 
-### [扫雷](https://code.juejin.cn/pen/7159386844486959118) <sub> by [大胆的番茄](https://juejin.cn/user/2735240659080696)
+### [扫雷](https://code.juejin.cn/pen/7159386844486959118) <sub> by [大胆的番茄](https://juejin.cn/user/2735240659080696)</sub>
 
 UI非常美观的一款经典扫雷。
 
-![](https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/7a4b2b5f4a7743e8822a0d6113965d94~tplv-k3u1fbpfcp-no-mark:400:400:400:0.awebp?)
+![](https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/7a4b2b5f4a7743e8822a0d6113965d94~tplv-k3u1fbpfcp-no-mark:400:400:400:0.awebp?1)
 
 ### [2048](https://code.juejin.cn/pen/7157941983531499534) <sub>by [小创不才](https://juejin.cn/user/2937535283070615)</sub>
   
@@ -88,7 +94,7 @@ UI非常美观的一款经典扫雷。
 
 ![](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/9c516c6f0a66453db538841517e02a08~tplv-k3u1fbpfcp-no-mark:400:400:400:0.awebp?)
 
-### [数字华容道](https://code.juejin.cn/pen/7158450860962349087) <sub>bu [_风满楼](https://juejin.cn/user/4028258417379037)</sub>
+### [数字华容道](https://code.juejin.cn/pen/7158450860962349087) <sub>by [_风满楼](https://juejin.cn/user/4028258417379037)</sub>
 
 独特的益智游戏。
 
@@ -100,5 +106,28 @@ UI非常美观的一款经典扫雷。
 
 ![](https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/5272ea58ea62487abcacd6db59700fb1~tplv-k3u1fbpfcp-no-mark:400:400:400:0.awebp?)
 
+### [中国象棋](https://code.juejin.cn/pen/7159467834496516132) <sub>by [Aaaaaaaaaaayou](https://juejin.cn/user/2277843822198574)</sub>
+
+带AI的中国象棋，非常棒！要是 AI 能更强些就更好了。
+
+![](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/0863e9ebcffb4c40901fae27b0c72cef~tplv-k3u1fbpfcp-no-mark:400:400:400:0.awebp?)
+
+### [吃豆人](https://code.juejin.cn/pen/7159784253343924254) <sub>by [passer-by6061](https://juejin.cn/user/289926798118589)</sub>
+
+吃豆人还原度挺高的，不知道是不是我操作问题，感觉偶尔方向键不太灵。
+
+![](https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/5bedd37506104eb884b4b9bb88626468~tplv-k3u1fbpfcp-no-mark:400:400:400:0.awebp?)
+
+### [飞机大战](https://code.juejin.cn/pen/7160317661635674146) <sub> by [2779985582767421](https://juejin.cn/user/2779985582767421)</sub>
+
+简单又好玩的纵版射击游戏。
+
+![](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/01d7387ff823451eade692476330abf3~tplv-k3u1fbpfcp-no-mark:400:400:400:0.awebp?1)
+
+### [💩到临头](https://code.juejin.cn/pen/7160217341429710855) <sub> by [JingZaia](https://juejin.cn/user/3364922022705384)</sub>
+  
+创意不错，我一开始以为是接💩，因为毕竟是🐶，结果规则竟然是躲💩。
+
+![](https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/46ded62a0c4d4739b786fe9d3751581f~tplv-k3u1fbpfcp-no-mark:400:400:400:0.awebp?)
 
 
