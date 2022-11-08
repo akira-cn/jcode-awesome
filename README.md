@@ -94,4 +94,10 @@
 
 ![](https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/5272ea58ea62487abcacd6db59700fb1~tplv-k3u1fbpfcp-no-mark:400:400:400:0.awebp?)
 
+### [扫雷](https://code.juejin.cn/pen/7159386844486959118)
+
+UI非常美观的一款经典扫雷。
+
+![](https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/7a4b2b5f4a7743e8822a0d6113965d94~tplv-k3u1fbpfcp-no-mark:400:400:400:0.awebp?)
+
 
