@@ -16,7 +16,7 @@
 
 ![](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/47245beeb0b34ed8b6ea75657133d19a~tplv-k3u1fbpfcp-no-mark:0:0:0:0.awebp)
 
-### [🤖 manufactoria](https://code.juejin.cn/pen/7161659797224292365)
+### [🤖 manufactoria](https://code.juejin.cn/pen/7161659797224292365) <sub>by [十年踪迹](https://juejin.cn/user/712139263189303)</sub>
 
 复刻机器人流水线，一款非常好玩的逻辑编程游戏，一共20多关，有些关卡难度较高，很考验编程天分。
 
@@ -39,3 +39,15 @@
 非常有趣的打砖块玩法，考研反应和操作。
 
 ![](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/0797f7ebc2474233a91544058c28dcfc~tplv-k3u1fbpfcp-no-mark:400:400:400:0.awebp?1)
+
+### [数字消除](https://code.juejin.cn/pen/7129693096253587486) <sub>by [彩云归](https://juejin.cn/user/4116215813642285)</sub>
+
+超难的数字消除，锻炼记忆力，反应力。
+
+![](https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/112c1706902449a9a975cdac7525e93b~tplv-k3u1fbpfcp-no-mark:400:400:400:0.awebp?)
+
+### [AI 五子棋](https://code.juejin.cn/pen/7121490956636913694) <sub>by [WebW0rld](https://juejin.cn/user/158786821564488)</sub>
+
+带AI的五子棋。
+
+![](https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/715abea93a7c4f388e2e8bb690414843~tplv-k3u1fbpfcp-no-mark:400:400:400:0.awebp?)
