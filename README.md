@@ -57,3 +57,9 @@
 带AI的五子棋。
 
 ![](https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/715abea93a7c4f388e2e8bb690414843~tplv-k3u1fbpfcp-no-mark:400:400:400:0.awebp?)
+
+### [别碰到球](https://code.juejin.cn/pen/7154351544446484494) <sub>by [Ziu](https://juejin.cn/user/4420463502826087)</sub>
+
+玩起来会上瘾。
+
+![](https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/816fa077f28e4daab148ab1fce319ab6~tplv-k3u1fbpfcp-no-mark:400:400:400:0.awebp?)
