@@ -75,3 +75,9 @@
 经典数独游戏，可生成不同难度的关卡。
 
 ![](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/9c516c6f0a66453db538841517e02a08~tplv-k3u1fbpfcp-no-mark:400:400:400:0.awebp?)
+
+### [数字华容道](https://code.juejin.cn/pen/7158450860962349087) <sub> [_风满楼](https://juejin.cn/user/4028258417379037)</sub>
+
+独特的益智游戏。
+
+![](https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/2cb6dfa935ea48d2bd9295bd8ceb97d2~tplv-k3u1fbpfcp-no-mark:400:400:400:0.awebp?)
