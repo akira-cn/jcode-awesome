@@ -32,4 +32,4 @@
 
 非常有趣的打砖块玩法，考研反应和操作。
 
-![](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/0797f7ebc2474233a91544058c28dcfc~tplv-k3u1fbpfcp-no-mark:400:400:400:0.awebp?)
+<img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/0797f7ebc2474233a91544058c28dcfc~tplv-k3u1fbpfcp-no-mark:400:400:400:0.awebp?">
