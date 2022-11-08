@@ -46,6 +46,12 @@
 
 ![](https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/112c1706902449a9a975cdac7525e93b~tplv-k3u1fbpfcp-no-mark:400:400:400:0.awebp?)
 
+### [Canvas打球游戏](https://code.juejin.cn/pen/7142285713172594724) <sub>by [WebW0rld](https://juejin.cn/user/158786821564488)</sub>
+
+简单但非常好玩的射击游戏。
+
+![](https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/6ff0b6d6c9bb49268638709634f40d3b~tplv-k3u1fbpfcp-no-mark:400:400:400:0.awebp?)
+
 ### [AI 五子棋](https://code.juejin.cn/pen/7121490956636913694) <sub>by [WebW0rld](https://juejin.cn/user/158786821564488)</sub>
 
 带AI的五子棋。
