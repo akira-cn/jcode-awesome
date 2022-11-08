@@ -60,7 +60,7 @@ UI非常美观的一款经典扫雷。
 
 ### [红蓝打砖块](https://code.juejin.cn/pen/7155040400577658891) <sub>by [jsmask](https://juejin.cn/user/1204720472953240)</sub>
 
-非常有趣的打砖块玩法，考研反应和操作。
+非常有趣的打砖块玩法，考验反应和操作。
 
 ![](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/0797f7ebc2474233a91544058c28dcfc~tplv-k3u1fbpfcp-no-mark:400:400:400:0.awebp?1)
 
