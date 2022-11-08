@@ -22,6 +22,12 @@
 
 ![](https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/4b093e3a0b2e4669bec9803306de9290~tplv-k3u1fbpfcp-no-mark:400:400:400:0.awebp?1)
 
+### [黑白棋](https://code.juejin.cn/pen/7156782077285761024)  <sub>by [十年踪迹](https://juejin.cn/user/712139263189303)</sub>
+
+带AI，而且AI棋力还不错。
+
+![](https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/b0e8579736414bb6998700a0be18bdda~tplv-k3u1fbpfcp-no-mark:400:400:400:0.awebp?)
+
 ### [贪吃蛇](https://code.juejin.cn/pen/7155823946388996132) <sub>by [法医](https://juejin.cn/user/1574156383557255)</sub>
 
 非常精致的一款贪吃蛇游戏。
