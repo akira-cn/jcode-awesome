@@ -135,3 +135,22 @@ UI非常美观的一款经典扫雷。
 格斗游戏，厉害了！
 
 ![](https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/33dd9f19d9f14c5ea07d1f26b0698f82~tplv-k3u1fbpfcp-no-mark:400:400:400:0.awebp?)
+
+### [horrible-game](https://code.juejin.cn/pen/7163673508373856296) <sub> by [pegasus64](https://juejin.cn/user/229113475654382)</sub>
+
+简单却令人欲罢不能的小游戏，通关需要耐心。
+
+![](https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/fbb0074fd37f4e1a9b18d811688ad49a~tplv-k3u1fbpfcp-no-mark:400:400:400:0.awebp?)
+
+### [乒乓球游戏](https://code.juejin.cn/pen/7163855731035209743) <sub> by [wangpeng1478](https://juejin.cn/user/2875978146910600)</sub>
+
+人家用球拍，我用脖子，这是个治疗颈椎病的好游戏！
+
+![](https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/c083bcc607ab4dd7bba43057efba74d5~tplv-k3u1fbpfcp-no-mark:400:400:400:0.awebp?)
+
+### [炸弹人](https://code.juejin.cn/pen/7162350895340978189) <sub> by [垃圾猿](https://juejin.cn/user/3632442150778654)</sub>
+
+高还原度的红白机炸弹人游戏，儿时回忆。
+
+![](https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/d5f867e1d2da4b3b8116d5c7700003c2~tplv-k3u1fbpfcp-no-mark:400:400:400:0.awebp?)
+
