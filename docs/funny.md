@@ -19,6 +19,12 @@ CSS画作，画风莫名治愈。
 
 ![](https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/feab489e489e445180cfef82fb156702~tplv-k3u1fbpfcp-no-mark:400:400:400:0.awebp?)
 
+### [夜幕下行走的猫咪](https://code.juejin.cn/pen/7100867463071399972) <sub> by [南城FE](https://juejin.cn/user/3378115131237863)</sub>
+
+CSS动画，优雅的喵星人。
+
+![](https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/2948f347bd894a02b4e04e8f110a28ff~tplv-k3u1fbpfcp-no-mark:400:400:400:0.awebp?)
+
 ## 无厘头
 
 ### [优弧语录](https://code.juejin.cn/pen/7140055948436963336) <sub> by [猪痞恶霸](https://juejin.cn/user/431430802343479)</sub>
