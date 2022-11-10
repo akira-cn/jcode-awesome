@@ -54,7 +54,7 @@ ASOUL粉丝团贡献。
 
 这样的键盘给整一套，感觉挺好的。
 
-![](https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/e5c02bf4f7cc49dfa75724ebce0cb0d0~tplv-k3u1fbpfcp-no-mark:400:400:400:0.awebp?)
+![](https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/e5c02bf4f7cc49dfa75724ebce0cb0d0~tplv-k3u1fbpfcp-no-mark:400:400:400:0.awebp?2)
 
 ## 趣味
 
