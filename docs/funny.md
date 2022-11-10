@@ -50,6 +50,12 @@ ASOUL粉丝团贡献。
 
 ![](https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/a32f9086e62e455ea2fc28d352067ae8~tplv-k3u1fbpfcp-no-mark:400:400:400:0.awebp?)
 
+### [掘金专属定制键盘](https://code.juejin.cn/pen/7155793654731243527) <sub> by [法医](https://juejin.cn/user/1574156383557255)</sub>
+
+这样的键盘给整一套，感觉挺好的。
+
+![](https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/e5c02bf4f7cc49dfa75724ebce0cb0d0~tplv-k3u1fbpfcp-no-mark:400:400:400:0.awebp?)
+
 ## 趣味
 
 ### [夜幕下行走的猫咪](https://code.juejin.cn/pen/7100867463071399972) <sub> by [南城FE](https://juejin.cn/user/3378115131237863)</sub>
