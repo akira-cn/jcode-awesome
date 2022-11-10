@@ -36,6 +36,12 @@ CSS动画，优雅的喵星人。
 
 ![](https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/2948f347bd894a02b4e04e8f110a28ff~tplv-k3u1fbpfcp-no-mark:400:400:400:0.awebp?)
 
+### [小幽灵](https://code.juejin.cn/pen/7143221622135062535) <sub> by [嘿嘿Z](https://juejin.cn/user/219558054997710)</sub>
+
+CSS画作，小幽灵。
+
+![](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/417335cb05394639809bc91481336f6c~tplv-k3u1fbpfcp-no-mark:400:400:400:0.awebp?)
+
 ## 无厘头
 
 ### [优弧语录](https://code.juejin.cn/pen/7140055948436963336) <sub> by [猪痞恶霸](https://juejin.cn/user/431430802343479)</sub>
