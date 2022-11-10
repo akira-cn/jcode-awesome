@@ -64,6 +64,12 @@ UI非常美观的一款经典扫雷。
 
 ![](https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/fbb0074fd37f4e1a9b18d811688ad49a~tplv-k3u1fbpfcp-no-mark:400:400:400:0.awebp?)
 
+### [find-different-color](https://code.juejin.cn/pen/7164203368863563816) <sub> by [480912906381](https://juejin.cn/user/1082362117504823)</sub>
+
+考验眼力的游戏！
+
+![](https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/9c5ccff32379416d8771b4be20f47f7c~tplv-k3u1fbpfcp-no-mark:400:400:400:0.awebp?)
+
 ## 棋类游戏
 
 ### [黑白棋](https://code.juejin.cn/pen/7156782077285761024)  <sub>by [十年踪迹](https://juejin.cn/user/712139263189303)</sub>
