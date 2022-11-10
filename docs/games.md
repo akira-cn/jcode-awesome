@@ -64,8 +64,6 @@ UI非常美观的一款经典扫雷。
 
 ![](https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/fbb0074fd37f4e1a9b18d811688ad49a~tplv-k3u1fbpfcp-no-mark:400:400:400:0.awebp?)
 
----
-
 ## 棋类游戏
 
 ### [黑白棋](https://code.juejin.cn/pen/7156782077285761024)  <sub>by [十年踪迹](https://juejin.cn/user/712139263189303)</sub>
@@ -85,8 +83,6 @@ UI非常美观的一款经典扫雷。
 带AI的中国象棋，非常棒！要是 AI 能更强些就更好了。
 
 ![](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/0863e9ebcffb4c40901fae27b0c72cef~tplv-k3u1fbpfcp-no-mark:400:400:400:0.awebp?)
-
----
 
 ## 动作类游戏
 
