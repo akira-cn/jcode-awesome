@@ -15,3 +15,9 @@
 
 
 ## 无厘头
+
+### [熊猫](https://code.juejin.cn/pen/7143951928383406093) <sub> by [CatWatermelon](https://juejin.cn/user/3280598430652264)</sub>
+
+CSS画作，画风莫名治愈。
+
+![](https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/feab489e489e445180cfef82fb156702~tplv-k3u1fbpfcp-no-mark:400:400:400:0.awebp?)
