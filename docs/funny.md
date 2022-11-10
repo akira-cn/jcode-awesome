@@ -22,6 +22,10 @@
 
 ![](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/887128734b2f473aa2c4b6a351766628~tplv-k3u1fbpfcp-no-mark:400:400:400:0.awebp?)
 
+### [旋转的六边形](https://code.juejin.cn/pen/7152711992568987656) <sub> by [爱吃鱼的桶哥Z](https://juejin.cn/user/1275089219770840)</sub>
+  
+![](https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/1c5114447e274c1eaabbb0a8de7a5325~tplv-k3u1fbpfcp-no-mark:400:400:400:0.awebp?)
+
 ## 趣味
 
 ### [熊猫](https://code.juejin.cn/pen/7143951928383406093) <sub> by [CatWatermelon](https://juejin.cn/user/3280598430652264)</sub>
