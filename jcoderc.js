@@ -17,6 +17,7 @@ export default {
         {name: '数字华容道', author: '_风满楼', id: '7158450860962349087'},
         {name: '十二生肖消一消', author: '3065906567846141', id: '7158392331622842383'},
         {name: 'horrible-game', author: 'pegasus64', id: '7163673508373856296'},
+        {name: 'find-different-color', authon: '480912906381', id: '7164203368863563816'},
       ],
     }, {
       type: 'folder',
@@ -44,6 +45,7 @@ export default {
         {name: '大乱斗', author: '清1024', id: '7163113821949657103'},
         {name: '乒乓球', author: 'wangpeng1478', id: '7163855731035209743'},
         {name: '炸弹人', author: '垃圾猿', id: '7162350895340978189'},
+        {name: '水果兄弟', author: '我的代码果然有问题', id: '7161331535579185191'}
       ],
     }
   ],
