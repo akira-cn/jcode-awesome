@@ -100,6 +100,14 @@ CSS绘制树叶上挪动的毛毛虫。
 
 ![](https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/9acb80e02e8b44059d5eb44c6b50f564~tplv-k3u1fbpfcp-no-mark:400:400:400:0.awebp?)
 
+## 有用
+
+### [农历日历](https://code.juejin.cn/pen/7155687100409937924) <sub> by [长安洛阳](https://juejin.cn/user/2796746683217246)</sub>
+
+一直觉得农历日期转换规则非常神奇……
+
+![](https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/47608ee62dc54939b5ef5c18a9b2f147~tplv-k3u1fbpfcp-no-mark:400:400:400:0.awebp?)
+
 ## 搞笑
 
 ### [其名为duang](https://code.juejin.cn/pen/7155739934412767240) <sub> by [用户1628356719282](https://juejin.cn/user/1121935193551598)</sub>
