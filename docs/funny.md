@@ -4,6 +4,12 @@
 
 ## 创意
 
+### [掘金路灯招牌](https://code.juejin.cn/pen/7145274940579643430) <sub> by [彩云归](https://juejin.cn/user/4116215813642285)</sub>
+
+掘金在路灯下，氛围感满满。
+
+![](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/5308704620e44efb954b64cb65302bca~tplv-k3u1fbpfcp-no-mark:400:400:400:0.awebp?)
+
 ### [用不熄灭的1024](https://code.juejin.cn/pen/7158879461859917837) <sub> by [璇天凤舞](https://juejin.cn/user/1209898758320840)</sub>
 
 1024 程序员节专属键盘，用不熄灭的灯光，来表达程序员的不息。
