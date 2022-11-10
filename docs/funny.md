@@ -52,12 +52,6 @@ ASOUL粉丝团贡献。
 
 ## 趣味
 
-### [熊猫](https://code.juejin.cn/pen/7143951928383406093) <sub> by [CatWatermelon](https://juejin.cn/user/3280598430652264)</sub>
-
-CSS画作，画风莫名治愈。
-
-![](https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/feab489e489e445180cfef82fb156702~tplv-k3u1fbpfcp-no-mark:400:400:400:0.awebp?)
-
 ### [夜幕下行走的猫咪](https://code.juejin.cn/pen/7100867463071399972) <sub> by [南城FE](https://juejin.cn/user/3378115131237863)</sub>
 
 CSS动画，优雅的喵星人。
@@ -99,6 +93,21 @@ CSS绘制一朵小红花。
 CSS绘制树叶上挪动的毛毛虫。
 
 ![](https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/9acb80e02e8b44059d5eb44c6b50f564~tplv-k3u1fbpfcp-no-mark:400:400:400:0.awebp?)
+
+## 搞笑
+
+### [其名为duang](https://code.juejin.cn/pen/7155739934412767240) <sub> by [用户1628356719282](https://juejin.cn/user/1121935193551598)</sub>
+
+莫名喜感。
+
+![](https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/3d2ffb39712d4e2e872626196824c811~tplv-k3u1fbpfcp-no-mark:800:800:800:0.awebp?)
+
+### [熊猫](https://code.juejin.cn/pen/7143951928383406093) <sub> by [CatWatermelon](https://juejin.cn/user/3280598430652264)</sub>
+
+CSS画作，画风莫名治愈。
+
+![](https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/feab489e489e445180cfef82fb156702~tplv-k3u1fbpfcp-no-mark:400:400:400:0.awebp?)
+
 
 ## 无厘头
 
