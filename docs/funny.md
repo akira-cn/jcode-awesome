@@ -38,6 +38,12 @@ Canvas实现的视觉效果。
 
 ![](https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/3e15f05bb0e74b168a2189f53ab3a7bc~tplv-k3u1fbpfcp-no-mark:400:400:400:0.awebp?)
 
+### [五彩斑斓加载效果](https://code.juejin.cn/pen/7140845026069708807) <sub> by [爱吃鱼的桶哥Z](https://juejin.cn/user/1275089219770840)</sub>
+
+好看的Loading效果。
+
+![](https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/d97f04e31adf477da338d07add9aa96c~tplv-k3u1fbpfcp-no-mark:400:400:400:0.awebp?)
+
 ## 趣味
 
 ### [熊猫](https://code.juejin.cn/pen/7143951928383406093) <sub> by [CatWatermelon](https://juejin.cn/user/3280598430652264)</sub>
@@ -69,6 +75,12 @@ CSS画作，双色莲花图。
 CSS画作，二十四节气之白露。
 
 ![](https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/47061e20d9e84950b779ea38d81bd3a1~tplv-k3u1fbpfcp-no-mark:400:400:400:0.awebp?)
+
+### [小风扇](https://code.juejin.cn/pen/7102268763206058020) <sub> by [前端若水](https://juejin.cn/user/3526889034487943)</sub>
+
+夏天小风扇，看着就凉爽。
+
+![](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/5b241d9bcbf244f490ba504bece9592c~tplv-k3u1fbpfcp-no-mark:400:400:400:0.awebp?)
 
 ## 无厘头
 
