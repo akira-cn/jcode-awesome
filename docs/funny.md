@@ -26,6 +26,18 @@
   
 ![](https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/1c5114447e274c1eaabbb0a8de7a5325~tplv-k3u1fbpfcp-no-mark:400:400:400:0.awebp?)
 
+### [烟花效果](https://code.juejin.cn/pen/7148811030594846735) <sub> by [爱吃鱼的桶哥Z](https://juejin.cn/user/1275089219770840)</sub>
+
+Canvas实现的烟花效果。
+
+![](https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/2a7c855333e748b89abd78fcb0f89f8b~tplv-k3u1fbpfcp-no-mark:400:400:400:0.awebp?)
+
+### [闪耀星光](https://code.juejin.cn/pen/7148786958607581195) <sub> by [爱吃鱼的桶哥Z](https://juejin.cn/user/1275089219770840)</sub>
+
+Canvas实现的视觉效果。
+
+![](https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/3e15f05bb0e74b168a2189f53ab3a7bc~tplv-k3u1fbpfcp-no-mark:400:400:400:0.awebp?)
+
 ## 趣味
 
 ### [熊猫](https://code.juejin.cn/pen/7143951928383406093) <sub> by [CatWatermelon](https://juejin.cn/user/3280598430652264)</sub>
