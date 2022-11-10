@@ -42,6 +42,18 @@ CSS画作，小幽灵。
 
 ![](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/417335cb05394639809bc91481336f6c~tplv-k3u1fbpfcp-no-mark:400:400:400:0.awebp?)
 
+### [双色莲花图](https://code.juejin.cn/pen/7127680399345451022) <sub> by [叶一一](https://juejin.cn/user/70822370479901)</sub>
+
+CSS画作，双色莲花图。
+
+![](https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/996dc78514f542129cb0081fa24b1aa4~tplv-k3u1fbpfcp-no-mark:400:400:400:0.awebp?)
+
+### [白露](https://code.juejin.cn/pen/7143489417259270177) <sub> by [叶一一](https://juejin.cn/user/70822370479901)</sub>
+
+CSS画作，二十四节气之白露。
+
+![](https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/47061e20d9e84950b779ea38d81bd3a1~tplv-k3u1fbpfcp-no-mark:400:400:400:0.awebp?)
+
 ## 无厘头
 
 ### [优弧语录](https://code.juejin.cn/pen/7140055948436963336) <sub> by [猪痞恶霸](https://juejin.cn/user/431430802343479)</sub>
