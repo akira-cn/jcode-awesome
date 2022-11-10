@@ -106,6 +106,12 @@ CSS绘制树叶上挪动的毛毛虫。
 
 ![](https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/9acb80e02e8b44059d5eb44c6b50f564~tplv-k3u1fbpfcp-no-mark:400:400:400:0.awebp?)
 
+### [电脑帮你写代码表白？](https://code.juejin.cn/pen/7156421493872656392) <sub> by [荆棘鸟Q](https://juejin.cn/user/1055183736157998)
+
+单身狗撩妹必备。
+
+![](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/bd3edf3dae5a490ca8b92c04db63d26b~tplv-k3u1fbpfcp-no-mark:400:400:400:0.awebp?)
+
 ## 有用
 
 ### [农历日历](https://code.juejin.cn/pen/7155687100409937924) <sub> by [长安洛阳](https://juejin.cn/user/2796746683217246)</sub>
