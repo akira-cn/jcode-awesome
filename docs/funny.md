@@ -76,6 +76,12 @@ CSS画作，二十四节气之白露。
 
 ![](https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/47061e20d9e84950b779ea38d81bd3a1~tplv-k3u1fbpfcp-no-mark:400:400:400:0.awebp?)
 
+### [简笔办公位](https://code.juejin.cn/pen/7155104723878723592) <sub> by [叶一一](https://juejin.cn/user/70822370479901)</sub>
+
+桌上电脑可以开关机，细节满分。
+
+![](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/fe09e60dbe284096bd1b6fd643eddf3d~tplv-k3u1fbpfcp-no-mark:400:400:400:0.awebp?)
+
 ### [小风扇](https://code.juejin.cn/pen/7102268763206058020) <sub> by [前端若水](https://juejin.cn/user/3526889034487943)</sub>
 
 夏天小风扇，看着就凉爽。
@@ -104,7 +110,7 @@ CSS绘制树叶上挪动的毛毛虫。
 
 ### [熊猫](https://code.juejin.cn/pen/7143951928383406093) <sub> by [CatWatermelon](https://juejin.cn/user/3280598430652264)</sub>
 
-CSS画作，画风莫名治愈。
+CSS画作，画风治愈。
 
 ![](https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/feab489e489e445180cfef82fb156702~tplv-k3u1fbpfcp-no-mark:400:400:400:0.awebp?)
 
