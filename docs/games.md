@@ -157,3 +157,9 @@ UI非常美观的一款经典扫雷。
 高还原度的红白机炸弹人游戏，儿时回忆。
 
 ![](https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/d5f867e1d2da4b3b8116d5c7700003c2~tplv-k3u1fbpfcp-no-mark:400:400:400:0.awebp?)
+
+### [水果兄弟](https://code.juejin.cn/pen/7161331535579185191) <sub> by [我的代码果然有问题](https://juejin.cn/user/2084329775961752)</sub>
+
+仿 Brotato 游戏，挺有意思的。
+
+![](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/7611a625840f41d7a1778ae1860c93c3~tplv-k3u1fbpfcp-no-mark:400:400:400:0.awebp?)
