@@ -10,6 +10,6 @@
 
 ## 好玩的
 
-- [创意]](docs/funny.md#创意)
-- [趣味]](docs/funny.md#趣味)
-- [无厘头]](docs/funny.md#无厘头)
+- [创意](docs/funny.md#创意)
+- [趣味](docs/funny.md#趣味)
+- [无厘头](docs/funny.md#无厘头)
