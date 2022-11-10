@@ -12,4 +12,5 @@
 
 - [创意](docs/funny.md#创意)
 - [趣味](docs/funny.md#趣味)
+- [搞笑](docs/funny.md#搞笑)
 - [无厘头](docs/funny.md#无厘头)
