@@ -100,7 +100,7 @@ CSS绘制树叶上挪动的毛毛虫。
 
 莫名喜感。
 
-![](https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/3d2ffb39712d4e2e872626196824c811~tplv-k3u1fbpfcp-no-mark:800:800:800:0.awebp?)
+![](https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/3d2ffb39712d4e2e872626196824c811~tplv-k3u1fbpfcp-no-mark:400:400:400:0.awebp?1)
 
 ### [熊猫](https://code.juejin.cn/pen/7143951928383406093) <sub> by [CatWatermelon](https://juejin.cn/user/3280598430652264)</sub>
 
