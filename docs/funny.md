@@ -74,6 +74,18 @@ ASOUL粉丝团贡献。
 
 ![](https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/69c9fe761604426dab0eab2c7e623430~tplv-k3u1fbpfcp-no-mark:400:400:400:0.awebp?)
 
+### [玻璃拟态](https://code.juejin.cn/pen/7085536704727089163) <sub>[狂奔滴小马](https://juejin.cn/user/2189882895384093)</sub>
+
+质感满满！
+
+![](https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/2175fdf29a9b4233b890a9bd54f0ace6~tplv-k3u1fbpfcp-no-mark:400:400:400:0.awebp?)
+
+### [HTML5标签周期表](https://code.juejin.cn/pen/7158304368272343077) <sub>[王道之矢](https://juejin.cn/user/1926000099722487)</sub>
+
+既养眼又是学习利器！
+
+![](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/87188a10d9cb4ba88f0cac00c13138e9~tplv-k3u1fbpfcp-no-mark:400:400:400:0.awebp?)
+
 ## 趣味
 
 ### [夜幕下行走的猫咪](https://code.juejin.cn/pen/7100867463071399972) <sub> by [南城FE](https://juejin.cn/user/3378115131237863)</sub>
