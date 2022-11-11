@@ -50,6 +50,12 @@ ASOUL粉丝团贡献。
 
 ![](https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/a32f9086e62e455ea2fc28d352067ae8~tplv-k3u1fbpfcp-no-mark:400:400:400:0.awebp?)
 
+### [掘金专属定制键盘](https://code.juejin.cn/pen/7155793654731243527) <sub> by [法医](https://juejin.cn/user/1574156383557255)</sub>
+
+这样的键盘给整一套，感觉挺好的。
+
+![](https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/e5c02bf4f7cc49dfa75724ebce0cb0d0~tplv-k3u1fbpfcp-no-mark:400:400:400:0.awebp?2)
+
 ## 趣味
 
 ### [夜幕下行走的猫咪](https://code.juejin.cn/pen/7100867463071399972) <sub> by [南城FE](https://juejin.cn/user/3378115131237863)</sub>
@@ -99,6 +105,20 @@ CSS绘制一朵小红花。
 CSS绘制树叶上挪动的毛毛虫。
 
 ![](https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/9acb80e02e8b44059d5eb44c6b50f564~tplv-k3u1fbpfcp-no-mark:400:400:400:0.awebp?)
+
+### [电脑帮你写代码表白？](https://code.juejin.cn/pen/7156421493872656392) <sub> by [荆棘鸟Q](https://juejin.cn/user/1055183736157998)
+
+单身狗撩妹必备。
+
+![](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/bd3edf3dae5a490ca8b92c04db63d26b~tplv-k3u1fbpfcp-no-mark:400:400:400:0.awebp?)
+
+## 有用
+
+### [农历日历](https://code.juejin.cn/pen/7155687100409937924) <sub> by [长安洛阳](https://juejin.cn/user/2796746683217246)</sub>
+
+一直觉得农历日期转换规则非常神奇……
+
+![](https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/47608ee62dc54939b5ef5c18a9b2f147~tplv-k3u1fbpfcp-no-mark:400:400:400:0.awebp?)
 
 ## 搞笑
 
