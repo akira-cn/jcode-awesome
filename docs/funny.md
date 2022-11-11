@@ -74,23 +74,29 @@ ASOUL粉丝团贡献。
 
 ![](https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/69c9fe761604426dab0eab2c7e623430~tplv-k3u1fbpfcp-no-mark:400:400:400:0.awebp?)
 
-### [玻璃拟态](https://code.juejin.cn/pen/7085536704727089163) <sub>[狂奔滴小马](https://juejin.cn/user/2189882895384093)</sub>
+### [玻璃拟态](https://code.juejin.cn/pen/7085536704727089163) <sub> by [狂奔滴小马](https://juejin.cn/user/2189882895384093)</sub>
 
 质感满满！
 
 ![](https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/2175fdf29a9b4233b890a9bd54f0ace6~tplv-k3u1fbpfcp-no-mark:400:400:400:0.awebp?)
 
-### [HTML5标签周期表](https://code.juejin.cn/pen/7158304368272343077) <sub>[王道之矢](https://juejin.cn/user/1926000099722487)</sub>
+### [HTML5标签周期表](https://code.juejin.cn/pen/7158304368272343077) <sub> by [王道之矢](https://juejin.cn/user/1926000099722487)</sub>
 
 既养眼又是学习利器！
 
 ![](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/87188a10d9cb4ba88f0cac00c13138e9~tplv-k3u1fbpfcp-no-mark:400:400:400:0.awebp?)
 
-### [充电效果](https://code.juejin.cn/pen/7124182728378941471) <sub>[程序猿八哥](https://juejin.cn/user/3087084379974791)</sub>
+### [充电效果](https://code.juejin.cn/pen/7124182728378941471) <sub> by [程序猿八哥](https://juejin.cn/user/3087084379974791)</sub>
 
 border-radius的巧妙运用，学到了👍🏼
 
 ![](https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/505141ce288846639479996df9301b8c~tplv-k3u1fbpfcp-no-mark:400:400:400:0.awebp?)
+
+### [有趣的菜单](https://code.juejin.cn/pen/7158610477453410334) <sub> by [草帽Plasticine](https://juejin.cn/user/1324240506200781)</sub>
+
+炫酷霓虹灯特效展开菜单。
+
+![](https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/33ca5e75d46e4d46b70a021c8c5cc375~tplv-k3u1fbpfcp-no-mark:400:400:400:0.awebp?)
 
 ## 趣味
 
@@ -153,6 +159,12 @@ CSS绘制树叶上挪动的毛毛虫。
 挺可爱的小🐻夜灯。
 
 ![](https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/ed540529c05d4088bda9773913a15eb0~tplv-k3u1fbpfcp-no-mark:400:400:400:0.awebp?)
+
+### [CSS Cat](https://code.juejin.cn/pen/7156038975126241293) <sub> by [XboxYan](https://juejin.cn/user/3579665587900030)</sub>
+
+睛瞪得像铜铃~耳朵竖得像天线~啊~啊~啊~啊啊~。。。
+
+![](https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/b722f0b89ea8445997a1364a9127fc75~tplv-k3u1fbpfcp-no-mark:400:400:400:0.awebp?)
 
 ## 有用
 
