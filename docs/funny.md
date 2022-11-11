@@ -190,6 +190,18 @@ CSS绘制树叶上挪动的毛毛虫。
 
 ![](https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/18f156e275de41bc9e065288b86fab4a~tplv-k3u1fbpfcp-no-mark:400:400:400:0.awebp?)
 
+### [一棵树](https://code.juejin.cn/pen/7159803714717351951) <sub> by [byte_n](https://juejin.cn/user/3488076823279703)</sub>
+
+看，这是生命的力量！
+
+![](https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/5afe25817b524f1393619ff20fbe35cb~tplv-k3u1fbpfcp-no-mark:400:400:400:0.awebp?)
+
+### [睡眠中的小熊](https://code.juejin.cn/pen/7142312439684530184) <sub> by [子不语Any](https://juejin.cn/user/3051900007626103)</sub>
+
+睡得真香~
+
+![](https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/b47a48a5dddd43e497eff3b7feec5de2~tplv-k3u1fbpfcp-no-mark:400:400:400:0.awebp?)
+
 ## 有用
 
 ### [农历日历](https://code.juejin.cn/pen/7155687100409937924) <sub> by [长安洛阳](https://juejin.cn/user/2796746683217246)</sub>
