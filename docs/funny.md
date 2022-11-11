@@ -104,6 +104,12 @@ border-radius的巧妙运用，学到了👍🏼
 
 ![](https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/58bb7ef773454b1194653b196d46381e~tplv-k3u1fbpfcp-no-mark:400:400:400:0.awebp?)
 
+### [三体-水滴](https://code.juejin.cn/pen/7159414417061478413) <sub> by [ohGreat](https://juejin.cn/user/2013961032308701)</sub>
+
+给岁月以文明，而不是给文明以岁月。
+
+![](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/dd5c51044f4144aabb3129c9c5099f43~tplv-k3u1fbpfcp-no-mark:400:400:400:0.awebp?)
+
 ## 趣味
 
 ### [夜幕下行走的猫咪](https://code.juejin.cn/pen/7100867463071399972) <sub> by [南城FE](https://juejin.cn/user/3378115131237863)</sub>
@@ -171,6 +177,12 @@ CSS绘制树叶上挪动的毛毛虫。
 睛瞪得像铜铃~耳朵竖得像天线~啊~啊~啊~啊啊~。。。
 
 ![](https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/b722f0b89ea8445997a1364a9127fc75~tplv-k3u1fbpfcp-no-mark:400:400:400:0.awebp?)
+
+### [太极图](https://code.juejin.cn/pen/7159130590334156837) <sub> by [__mxin](https://juejin.cn/user/3790771824108808)</sub>
+
+用CSS巧妙绘制。
+
+![](https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/c4415532e24540968f2738c782f0c352~tplv-k3u1fbpfcp-no-mark:400:400:400:0.awebp?)
 
 ## 有用
 
