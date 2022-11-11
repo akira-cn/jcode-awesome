@@ -98,6 +98,12 @@ border-radius的巧妙运用，学到了👍🏼
 
 ![](https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/33ca5e75d46e4d46b70a021c8c5cc375~tplv-k3u1fbpfcp-no-mark:400:400:400:0.awebp?)
 
+### [代码雨](https://code.juejin.cn/pen/7085589976422809640) <sub> by [鸡汤来喽](https://juejin.cn/user/2796746683720590)</sub>
+
+假装是黑客~
+
+![](https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/58bb7ef773454b1194653b196d46381e~tplv-k3u1fbpfcp-no-mark:400:400:400:0.awebp?)
+
 ## 趣味
 
 ### [夜幕下行走的猫咪](https://code.juejin.cn/pen/7100867463071399972) <sub> by [南城FE](https://juejin.cn/user/3378115131237863)</sub>
@@ -208,3 +214,8 @@ CSS画作，画风治愈。
 
 ![](https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/df174d53e9f74bc682f00ccc288d94d9~tplv-k3u1fbpfcp-no-mark:400:400:400:0.awebp?)
 
+### [先有鸡先有蛋](https://code.juejin.cn/pen/7159059568033529886) <sub> by [SpongeNoob](https://juejin.cn/user/2186269664481000)</sub>
+
+先有鸡还是先有蛋？JS给出的答案是……
+
+![](https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/492267bbd7604e35ace7ab06971663c7~tplv-k3u1fbpfcp-no-mark:400:400:400:0.awebp?)
