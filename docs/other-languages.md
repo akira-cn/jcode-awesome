@@ -17,3 +17,9 @@
 ![](https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/af3f66cde30249e0a5d29de7b9460ace~tplv-k3u1fbpfcp-no-mark:400:400:400:0.awebp?)
 
 ## Python(Brython)
+
+### [走迷宫](https://code.juejin.cn/pen/7154683169952759816) <sub> by [pdudo](https://juejin.cn/user/2981531267892856)</sub>
+
+使用brython实现的走迷宫
+
+![](https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/273e71b255764c01acc6cecfd07b7896~tplv-k3u1fbpfcp-no-mark:400:400:400:0.awebp?)
