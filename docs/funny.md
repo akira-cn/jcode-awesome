@@ -118,11 +118,17 @@ CSS绘制树叶上挪动的毛毛虫。
 
 ![](https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/9acb80e02e8b44059d5eb44c6b50f564~tplv-k3u1fbpfcp-no-mark:400:400:400:0.awebp?)
 
-### [电脑帮你写代码表白？](https://code.juejin.cn/pen/7156421493872656392) <sub> by [荆棘鸟Q](https://juejin.cn/user/1055183736157998)
+### [电脑帮你写代码表白？](https://code.juejin.cn/pen/7156421493872656392) <sub> by [荆棘鸟Q](https://juejin.cn/user/1055183736157998)</sub>
 
 单身狗撩妹必备。
 
 ![](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/bd3edf3dae5a490ca8b92c04db63d26b~tplv-k3u1fbpfcp-no-mark:400:400:400:0.awebp?)
+
+### [萌熊小夜灯](https://code.juejin.cn/pen/7101492822934552583) <sub> by [shinn_lancelot](https://juejin.cn/user/3737995264667031)</sub>
+
+挺可爱的小🐻夜灯。
+
+![](https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/ed540529c05d4088bda9773913a15eb0~tplv-k3u1fbpfcp-no-mark:400:400:400:0.awebp?)
 
 ## 有用
 
