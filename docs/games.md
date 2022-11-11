@@ -169,3 +169,9 @@ UI非常美观的一款经典扫雷。
 仿 Brotato 游戏，挺有意思的。
 
 ![](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/7611a625840f41d7a1778ae1860c93c3~tplv-k3u1fbpfcp-no-mark:400:400:400:0.awebp?)
+
+### [捕鱼游戏](https://code.juejin.cn/pen/7164206576956342302) <sub> by [Guowc](https://juejin.cn/user/1732486057965181)</sub>
+
+真的超级治愈！
+
+![](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/07142804a40746698e80ac5e6dab377b~tplv-k3u1fbpfcp-no-mark:400:400:400:0.awebp?)
