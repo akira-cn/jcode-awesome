@@ -56,6 +56,12 @@ ASOUL粉丝团贡献。
 
 ![](https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/e5c02bf4f7cc49dfa75724ebce0cb0d0~tplv-k3u1fbpfcp-no-mark:400:400:400:0.awebp?2)
 
+### [立方体悬停效果](https://code.juejin.cn/pen/7157701061707300871) <sub> by [codinglin](https://juejin.cn/user/726107228492253)</sub>
+
+非常解压的视觉和交互效果。
+
+![](https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/a5736406e26540039c14863cf37ecaf4~tplv-k3u1fbpfcp-no-mark:400:400:400:0.awebp?)
+
 ## 趣味
 
 ### [夜幕下行走的猫咪](https://code.juejin.cn/pen/7100867463071399972) <sub> by [南城FE](https://juejin.cn/user/3378115131237863)</sub>
