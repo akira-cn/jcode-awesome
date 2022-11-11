@@ -56,6 +56,12 @@ ASOUL粉丝团贡献。
 
 ![](https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/e5c02bf4f7cc49dfa75724ebce0cb0d0~tplv-k3u1fbpfcp-no-mark:400:400:400:0.awebp?2)
 
+### [可爱键盘](https://code.juejin.cn/pen/7162053437960486919) <sub> by [狐狸小妃](https://juejin.cn/user/4191809188923368)</sub>
+
+另一款萌萌哒键盘。
+
+![](https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/cfd40536edfc4b2880e1414df1b0a98e~tplv-k3u1fbpfcp-no-mark:400:400:400:0.awebp?)
+
 ### [立方体悬停效果](https://code.juejin.cn/pen/7157701061707300871) <sub> by [codinglin](https://juejin.cn/user/726107228492253)</sub>
 
 非常解压的视觉和交互效果。
@@ -201,6 +207,24 @@ CSS绘制树叶上挪动的毛毛虫。
 睡得真香~
 
 ![](https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/b47a48a5dddd43e497eff3b7feec5de2~tplv-k3u1fbpfcp-no-mark:400:400:400:0.awebp?22)
+
+### [CSS 3D曲面手机模型](https://code.juejin.cn/pen/7160960844447088678) <sub> by [Guowc](https://juejin.cn/user/1732486057965181)</sub>
+
+细节很赞，有彩蛋~
+
+![](https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/2a75a5ec193c41bfa2808e813338e1ea~tplv-k3u1fbpfcp-no-mark:400:400:400:0.awebp?)
+
+### [浪漫的心](https://code.juejin.cn/pen/7164319224926568478) <sub> by [jsmask](https://juejin.cn/user/1204720472953240)</sub>
+
+撒狗粮专用。
+
+![](https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/e79df811101f47829096171e73bab2ae~tplv-k3u1fbpfcp-no-mark:400:400:400:0.awebp?)
+
+### [烟花绽放](https://code.juejin.cn/pen/7164655606089908231) <sub> by [Kyle_Zhang](https://juejin.cn/user/1970741420242397)</sub>
+
+粒子烟花效果。
+
+![](https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/4643b9824c24484f9d98db4f8df141a5~tplv-k3u1fbpfcp-no-mark:400:400:400:0.awebp?)
 
 ## 有用
 
