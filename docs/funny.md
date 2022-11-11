@@ -62,6 +62,12 @@ ASOUL粉丝团贡献。
 
 ![](https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/a5736406e26540039c14863cf37ecaf4~tplv-k3u1fbpfcp-no-mark:400:400:400:0.awebp?)
 
+### [泡泡机](https://code.juejin.cn/pen/7102335940844060703) <sub> by [shinn_lancelot](https://juejin.cn/user/3737995264667031)</sub>
+
+童趣十足。
+
+![](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/40cdca1bacc14f7ca5c4d71b1c4cd9e8~tplv-k3u1fbpfcp-no-mark:400:400:400:0.awebp?)
+
 ## 趣味
 
 ### [夜幕下行走的猫咪](https://code.juejin.cn/pen/7100867463071399972) <sub> by [南城FE](https://juejin.cn/user/3378115131237863)</sub>
