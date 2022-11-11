@@ -14,3 +14,14 @@
 - [趣味](docs/funny.md#趣味)
 - [搞笑](docs/funny.md#搞笑)
 - [无厘头](docs/funny.md#无厘头)
+
+## WebGL Shaders
+
+- [Shaders](docs/shaders.md#shaders)
+- [CSS-Doodle](docs/shaders.md#css-doodle)
+- [Shadertoy](docs/shaders.md#shadertoy)
+
+## 其他编程语言
+
+- [文言文](docs/other-languages.md#文言文)
+- [Python](docs/other-languages.md#pythonbrython)
