@@ -86,6 +86,12 @@ ASOUL粉丝团贡献。
 
 ![](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/87188a10d9cb4ba88f0cac00c13138e9~tplv-k3u1fbpfcp-no-mark:400:400:400:0.awebp?)
 
+### [充电效果](https://code.juejin.cn/pen/7124182728378941471) <sub>[程序猿八哥](https://juejin.cn/user/3087084379974791)</sub>
+
+border-radius的巧妙运用，学到了👍🏼
+
+![](https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/505141ce288846639479996df9301b8c~tplv-k3u1fbpfcp-no-mark:400:400:400:0.awebp?)
+
 ## 趣味
 
 ### [夜幕下行走的猫咪](https://code.juejin.cn/pen/7100867463071399972) <sub> by [南城FE](https://juejin.cn/user/3378115131237863)</sub>
@@ -170,6 +176,11 @@ CSS画作，画风治愈。
 
 ![](https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/feab489e489e445180cfef82fb156702~tplv-k3u1fbpfcp-no-mark:400:400:400:0.awebp?)
 
+### [小黑子](https://code.juejin.cn/pen/7158274481616584708) <sub> by [来瓶墨汁](https://juejin.cn/user/3549659256335389)</sub>
+
+小黑子吗？你不说我还以为CXK...
+
+![](https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/69757bfbd982496cb567f45229996eb1~tplv-k3u1fbpfcp-no-mark:400:400:400:0.awebp?)
 
 ## 无厘头
 
