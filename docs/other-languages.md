@@ -23,3 +23,9 @@
 使用brython实现的走迷宫
 
 ![](https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/273e71b255764c01acc6cecfd07b7896~tplv-k3u1fbpfcp-no-mark:400:400:400:0.awebp?)
+
+### [连连看](https://code.juejin.cn/pen/7159814244257497096) <sub> by [pdudo](https://juejin.cn/user/2981531267892856)</sub>
+
+Brython | 连连看
+
+![](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/d78b3cb3da2c41e5b1bc78e961a9315c~tplv-k3u1fbpfcp-no-mark:400:400:400:0.awebp?)
