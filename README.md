@@ -40,6 +40,18 @@
 
 ![](https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/5f991511552d47bfb1505645c8d92343~tplv-k3u1fbpfcp-no-mark:400:400:400:0.awebp?)
 
+### [文字路径动画](https://code.juejin.cn/pen/7160935003981873188) <sub> by [thatisit](https://juejin.cn/user/2330620383466893)</sub>
+
+代码不止，掘金不停。
+
+![](https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/b8f77ca41b944575a2af6bfc9f60bee3~tplv-k3u1fbpfcp-no-mark:400:400:400:0.awebp?)
+
+### [斗地主](https://code.juejin.cn/pen/7165866010870808590) <sub> by [7657454218679](https://juejin.cn/user/3787146891108654)</sub>
+
+开心斗地主，我怀疑玩家作弊，拿到的都是好牌，代码还未review。不过玩起来确实爽！
+
+![](https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/5bdce90940184f9892da3b89c2d91a5f~tplv-k3u1fbpfcp-no-mark:400:400:400:0.awebp?)
+
 ## 归档
 
 ### 游戏类
