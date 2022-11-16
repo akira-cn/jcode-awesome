@@ -4,6 +4,12 @@
 
 ## 一周精选
 
+### [异形工厂](https://code.juejin.cn/pen/7157617542360465416) <sub> by [荆棘鸟Q](https://juejin.cn/user/1055183736157998)
+
+慢热型，十分有趣的逻辑游戏！
+
+![](https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/3d4e046dbb0445ce92ae782328a4b51b~tplv-k3u1fbpfcp-no-mark:400:400:400:0.awebp?)
+
 ### [矿石大作战](https://code.juejin.cn/pen/7158032150456401951) <sub> by [FunnySaltyFish](https://juejin.cn/user/2673613109214333)</sub>
 
 收集矿石，躲避💣
