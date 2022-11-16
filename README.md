@@ -4,7 +4,7 @@
 
 ## 一周精选
 
-### [异形工厂](https://code.juejin.cn/pen/7157617542360465416) <sub> by [荆棘鸟Q](https://juejin.cn/user/1055183736157998)
+### [异形工厂](https://code.juejin.cn/pen/7157617542360465416) <sub> by [荆棘鸟Q](https://juejin.cn/user/1055183736157998) </sub>
 
 慢热型，十分有趣的逻辑游戏！
 
@@ -22,7 +22,7 @@
 
 ![](https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/49ba4ae18b3a42209f54c31970e2b082~tplv-k3u1fbpfcp-no-mark:400:400:400:0.awebp?)
 
-### [粒子爱心跳动](https://code.juejin.cn/pen/7165310573574848545) <sub> by [战场小包](https://juejin.cn/user/4424090519078430)
+### [粒子爱心跳动](https://code.juejin.cn/pen/7165310573574848545) <sub> by [战场小包](https://juejin.cn/user/4424090519078430) </sub>
 
 鉴定过，撩妹用的…
 
@@ -37,6 +37,8 @@
 ### [记忆小挑战](https://code.juejin.cn/pen/7165762487818649638) <sub> by [Jacob.King](https://juejin.cn/user/3227821868326935)</sub>
 
 沧海横流，物转星移，这尘寰三千年能被记住的又有多少。即便是天尧，也只不过是一瞬的星火。
+
+![](https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/5f991511552d47bfb1505645c8d92343~tplv-k3u1fbpfcp-no-mark:400:400:400:0.awebp?)
 
 ## 归档
 
