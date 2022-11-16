@@ -34,6 +34,9 @@
 
 ![](https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/6b7948f462404f8bbcc2089d254a5a70~tplv-k3u1fbpfcp-no-mark:400:400:400:0.awebp?)
 
+### [记忆小挑战](https://code.juejin.cn/pen/7165762487818649638) <sub> by [Jacob.King](https://juejin.cn/user/3227821868326935)</sub>
+
+沧海横流，物转星移，这尘寰三千年能被记住的又有多少。即便是天尧，也只不过是一瞬的星火。
 
 ## 归档
 
