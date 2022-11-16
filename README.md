@@ -8,7 +8,7 @@
 
 慢热型，十分有趣的逻辑游戏！
 
-![](https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/3d4e046dbb0445ce92ae782328a4b51b~tplv-k3u1fbpfcp-no-mark:400:400:400:0.awebp?)
+![](https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/3d4e046dbb0445ce92ae782328a4b51b~tplv-k3u1fbpfcp-no-mark:400:400:400:0.awebp?1)
 
 ### [矿石大作战](https://code.juejin.cn/pen/7158032150456401951) <sub> by [FunnySaltyFish](https://juejin.cn/user/2673613109214333)</sub>
 
