@@ -52,6 +52,36 @@
 
 ![](https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/5bdce90940184f9892da3b89c2d91a5f~tplv-k3u1fbpfcp-no-mark:400:400:400:0.awebp?)
 
+### [盖塔楼](https://code.juejin.cn/pen/7165883287708270625) <sub> by [7657454218679](https://code.juejin.cn/pen/7165883287708270625)</sub>
+
+万丈高楼平地起！
+
+![](https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/5d0013c90ec24b67be4d6945a6e27ce4~tplv-k3u1fbpfcp-no-mark:400:400:400:0.awebp?)
+
+### [程序对对对](https://code.juejin.cn/pen/7160842770892980239) <sub> by [她破风林](https://juejin.cn/user/1654142228504888)</sub>
+
+这个好难，脑子不够用了…
+
+![](https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/5b1b58b2cf104741ad0a9033d41c213d~tplv-k3u1fbpfcp-no-mark:400:400:400:0.awebp?)
+
+### [捉迷藏的运营大大们](https://code.juejin.cn/pen/7088118666750853128) <sub> by [战场小包](https://juejin.cn/user/4424090519078430)</sub>
+
+这个扫雷做得很有特色，好评！
+
+![](https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/b48137b8923b4ed5894b9990ddea4a90~tplv-k3u1fbpfcp-no-mark:400:400:400:0.awebp?)
+
+### [雪糕地球](https://code.juejin.cn/pen/7085568010278141993) <sub> by [战场小包](https://juejin.cn/user/4424090519078430)</sub>
+
+看起来很好吃的样子~
+
+![](https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/851be263ca514821b2c3d604b689385d~tplv-k3u1fbpfcp-no-mark:400:400:400:0.awebp?)
+
+### [fly-birds](https://code.juejin.cn/pen/7085602086749995020) <sub> by [战场小包](https://juejin.cn/user/4424090519078430)</sub>
+
+很有意思的CSS飞鸟。
+
+![](https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/69fdc98075ed43d1a3dbfe0310c31d3d~tplv-k3u1fbpfcp-no-mark:400:400:400:0.awebp?)
+
 ## 归档
 
 ### 游戏类
