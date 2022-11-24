@@ -4,6 +4,66 @@
 
 ## 益智类游戏
 
+### [来都来了点个赞呗](https://code.juejin.cn/pen/7167282711076274189) <sub> by [名字好难](https://juejin.cn/user/826447736892039)</sub>
+
+没错我是凑数的！
+
+![](https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/04ae5a31af0a46049128d0e08c5ed585~tplv-k3u1fbpfcp-no-mark:400:400:400:0.awebp?)
+
+### [倾斜迷宫游戏](https://code.juejin.cn/pen/7168861068276531200) <sub> by [程序员路飞](https://juejin.cn/user/3315782799861959)</sub>
+
+依靠操纵杆倾斜迷宫移动小球，很有趣的游戏方式，就是非常困难。
+
+![](https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/3823f318f8824aff8db11350e0929ccc~tplv-k3u1fbpfcp-no-mark:400:400:400:0.awebp?)
+
+### [斗兽棋](https://code.juejin.cn/pen/7167717800264335368) <sub> by [志帅](https://juejin.cn/user/1239904846878599)</sub>
+
+咋和我小时后玩的不一样？
+
+![](hhttps://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/21e39a5e415c46ffa585304e0352aa88~tplv-k3u1fbpfcp-no-mark:400:400:400:0.awebp?)
+
+### [掘金子的小胖墩](https://code.juejin.cn/pen/7158689701027643405) <sub> by [懒狗小前端](https://juejin.cn/user/1521379826211549)</sub>
+
+真正做到了快乐掘金！
+
+![](https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/d3fbd522c5494acc954e0a5f01329832~tplv-k3u1fbpfcp-no-mark:400:400:400:0.awebp?)
+
+### [皮影戏](https://code.juejin.cn/pen/7160569257925804068) <sub> by [陈_杨](https://juejin.cn/user/2084329779108062)</sub>
+
+非物质文化遗产。
+
+![](https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/81a0ebfddb2c447395c1771e77bce38c~tplv-k3u1fbpfcp-no-mark:400:400:400:0.awebp?)
+
+### [超Q弹跳游戏](https://code.juejin.cn/pen/7166586991231008805) <sub> by [Guowc](https://juejin.cn/user/1732486057965181)</sub>
+
+小小青蛙蹦蹦跳跳~
+
+![](https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/53934d6e605f493faca15f499b95ab11~tplv-k3u1fbpfcp-no-mark:400:400:400:0.awebp?)
+
+### [程序对对对](https://code.juejin.cn/pen/7160842770892980239) <sub> by [她破风林](https://juejin.cn/user/1654142228504888)</sub>
+
+这个好难，脑子不够用了…
+
+![](https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/5b1b58b2cf104741ad0a9033d41c213d~tplv-k3u1fbpfcp-no-mark:400:400:400:0.awebp?)
+
+### [盖塔楼](https://code.juejin.cn/pen/7165883287708270625) <sub> by [7657454218679](https://code.juejin.cn/pen/7165883287708270625)</sub>
+
+万丈高楼平地起！
+
+![](https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/5d0013c90ec24b67be4d6945a6e27ce4~tplv-k3u1fbpfcp-no-mark:400:400:400:0.awebp?)
+
+### [记忆小挑战](https://code.juejin.cn/pen/7165762487818649638) <sub> by [Jacob.King](https://juejin.cn/user/3227821868326935)</sub>
+
+沧海横流，物转星移，这尘寰三千年能被记住的又有多少。即便是天尧，也只不过是一瞬的星火。
+
+![](https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/5f991511552d47bfb1505645c8d92343~tplv-k3u1fbpfcp-no-mark:400:400:400:0.awebp?)
+
+### [异形工厂](https://code.juejin.cn/pen/7157617542360465416) <sub> by [荆棘鸟Q](https://juejin.cn/user/1055183736157998) </sub>
+
+慢热型，十分有趣的逻辑游戏！
+
+![](https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/3d4e046dbb0445ce92ae782328a4b51b~tplv-k3u1fbpfcp-no-mark:400:400:400:0.awebp?1)
+
 ### [消除方块](https://code.juejin.cn/pen/7132120696733302822)
 
 经典的三消游戏，基于 [LittleJS](https://github.com/KilledByAPixel/LittleJS) 开发。
@@ -70,7 +130,13 @@ UI非常美观的一款经典扫雷。
 
 ![](https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/9c5ccff32379416d8771b4be20f47f7c~tplv-k3u1fbpfcp-no-mark:400:400:400:0.awebp?)
 
-## 棋类游戏
+## 棋牌游戏
+
+### [斗地主](https://code.juejin.cn/pen/7165866010870808590) <sub> by [7657454218679](https://juejin.cn/user/3787146891108654)</sub>
+
+开心斗地主，我怀疑玩家作弊，拿到的都是好牌，代码还未review。不过玩起来确实爽！
+
+![](https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/5bdce90940184f9892da3b89c2d91a5f~tplv-k3u1fbpfcp-no-mark:400:400:400:0.awebp?)
 
 ### [黑白棋](https://code.juejin.cn/pen/7156782077285761024)  <sub>by [十年踪迹](https://juejin.cn/user/712139263189303)</sub>
 
@@ -84,6 +150,12 @@ UI非常美观的一款经典扫雷。
 
 ![](https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/715abea93a7c4f388e2e8bb690414843~tplv-k3u1fbpfcp-no-mark:400:400:400:0.awebp?)
 
+### [AI 五子棋2](https://code.juejin.cn/pen/7165504719518400526) <sub> by [7657454218679]</sub>
+
+人工智能一般般嘛…
+
+![](https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/6b7948f462404f8bbcc2089d254a5a70~tplv-k3u1fbpfcp-no-mark:400:400:400:0.awebp?)
+
 ### [中国象棋](https://code.juejin.cn/pen/7159467834496516132) <sub>by [Aaaaaaaaaaayou](https://juejin.cn/user/2277843822198574)</sub>
 
 带AI的中国象棋，非常棒！要是 AI 能更强些就更好了。
@@ -91,6 +163,18 @@ UI非常美观的一款经典扫雷。
 ![](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/0863e9ebcffb4c40901fae27b0c72cef~tplv-k3u1fbpfcp-no-mark:400:400:400:0.awebp?)
 
 ## 动作类游戏
+
+### [第一人称跑酷游戏](https://code.juejin.cn/pen/7158651682354626591) <sub> by [第一人称跑酷游戏](https://code.juejin.cn/pen/7158651682354626591)</sub>
+
+与其说跑酷，不如说是跳高…
+
+![](https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/49ba4ae18b3a42209f54c31970e2b082~tplv-k3u1fbpfcp-no-mark:400:400:400:0.awebp?)
+
+### [矿石大作战](https://code.juejin.cn/pen/7158032150456401951) <sub> by [FunnySaltyFish](https://juejin.cn/user/2673613109214333)</sub>
+
+收集矿石，躲避💣
+
+![](https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/1c1f0bb84f2b461b8d1e991eaa8a2c6b~tplv-k3u1fbpfcp-no-mark:400:400:400:0.awebp?)
 
 ### [枪战游戏](https://code.juejin.cn/pen/7132404229280366606)
 

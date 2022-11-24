@@ -4,6 +4,19 @@
 
 ## 创意
 
+### [粒子爱心跳动](https://code.juejin.cn/pen/7165310573574848545) <sub> by [战场小包](https://juejin.cn/user/4424090519078430) </sub>
+
+鉴定过，撩妹用的…
+
+![](https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/bfc9ca4204f744c28a6e6f8aaa3ff08e~tplv-k3u1fbpfcp-no-mark:400:400:400:0.awebp?)
+
+
+### [文字路径动画](https://code.juejin.cn/pen/7160935003981873188) <sub> by [thatisit](https://juejin.cn/user/2330620383466893)</sub>
+
+代码不止，掘金不停。
+
+![](https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/b8f77ca41b944575a2af6bfc9f60bee3~tplv-k3u1fbpfcp-no-mark:400:400:400:0.awebp?)
+
 ### [掘金路灯招牌](https://code.juejin.cn/pen/7145274940579643430) <sub> by [彩云归](https://juejin.cn/user/4116215813642285)</sub>
 
 掘金在路灯下，氛围感满满。
@@ -117,6 +130,19 @@ border-radius的巧妙运用，学到了👍🏼
 ![](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/dd5c51044f4144aabb3129c9c5099f43~tplv-k3u1fbpfcp-no-mark:400:400:400:0.awebp?)
 
 ## 趣味
+
+### [fly-birds](https://code.juejin.cn/pen/7085602086749995020) <sub> by [战场小包](https://juejin.cn/user/4424090519078430)</sub>
+
+很有意思的CSS飞鸟。
+
+![](https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/69fdc98075ed43d1a3dbfe0310c31d3d~tplv-k3u1fbpfcp-no-mark:400:400:400:0.awebp?)
+
+### [雪糕地球](https://code.juejin.cn/pen/7085568010278141993) <sub> by [战场小包](https://juejin.cn/user/4424090519078430)</sub>
+
+看起来很好吃的样子~
+
+![](https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/851be263ca514821b2c3d604b689385d~tplv-k3u1fbpfcp-no-mark:400:400:400:0.awebp?)
+
 
 ### [夜幕下行走的猫咪](https://code.juejin.cn/pen/7100867463071399972) <sub> by [南城FE](https://juejin.cn/user/3378115131237863)</sub>
 
@@ -255,6 +281,12 @@ CSS画作，画风治愈。
 ![](https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/69757bfbd982496cb567f45229996eb1~tplv-k3u1fbpfcp-no-mark:400:400:400:0.awebp?)
 
 ## 无厘头
+
+### [捉迷藏的运营大大们](https://code.juejin.cn/pen/7088118666750853128) <sub> by [战场小包](https://juejin.cn/user/4424090519078430)</sub>
+
+这个扫雷做得很有特色，好评！
+
+![](https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/b48137b8923b4ed5894b9990ddea4a90~tplv-k3u1fbpfcp-no-mark:400:400:400:0.awebp?)
 
 ### [优弧语录](https://code.juejin.cn/pen/7140055948436963336) <sub> by [猪痞恶霸](https://juejin.cn/user/431430802343479)</sub>
 
