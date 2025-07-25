@@ -22,7 +22,12 @@ async function initDemos(container, collection) {
         titleEl.href = demos.url;
       }
     } catch (ex) {
-      location.replace(`//${url.host}`);
+      const trustedHost = 'your-trusted-domain.com'; // Replace with your trusted domain
+      if (url.host === trustedHost) {
+        location.replace(`//${url.host}`);
+      } else {
+        console.error('Untrusted redirect attempt blocked.');
+      }
       return;
     }
   }
